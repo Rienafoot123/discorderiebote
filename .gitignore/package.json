@@ -1,0 +1,21 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "BotFor Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Twitter FiFaaCil#1503",
+  "license": "ISC",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "discord.js": "^12.5.3",
+    "discord.js-menu": "^2.3.1",
+    "fs": "0.0.1-security",
+    "humanize-duration": "^3.26.0",
+    "moment": "^2.29.1",
+    "parse-duration": "^0.4.4",
+    "wokcommands": "^1.3.5"
+  }
+}
